@@ -1,0 +1,108 @@
+{
+  "Books": [
+    {
+      "Id": "ee7cc792-6aaf-4726-acb9-6d9daebc1585",
+      "Title": "Northanger Abbey",
+      "Author": "Austen, Jane",
+      "YearWritten": 1814,
+      "Edition": "Penguin",
+      "Price": 18.2
+    },
+    {
+      "Id": "03567f1b-2573-4ebe-8aba-8df61b71dbd7",
+      "Title": "War and Peace",
+      "Author": "Tolstoy, Leo",
+      "YearWritten": 1865,
+      "Edition": "Penguin",
+      "Price": 12.7
+    },
+    {
+      "Id": "8f886b83-1c0c-45c2-a07a-d1d02a197890",
+      "Title": "Anna Karenina",
+      "Author": "Tolstoy, Leo",
+      "YearWritten": 1875,
+      "Edition": "Penguin",
+      "Price": 13.5
+    },
+    {
+      "Id": "d45e8d02-bbb0-4572-8834-1466fe03f156",
+      "Title": "Mrs. Dalloway",
+      "Author": "Woolf, Virginia",
+      "YearWritten": 1925,
+      "Edition": "Harcourt Brace",
+      "Price": 25.0
+    },
+    {
+      "Id": "3bb2c54f-fa5d-4cc0-a8cc-eab057374599",
+      "Title": "The Hours",
+      "Author": "Cunnningham, Michael",
+      "YearWritten": 1999,
+      "Edition": "Harcourt Brace",
+      "Price": 12.35
+    },
+    {
+      "Id": "94870661-8160-450c-8186-5c2dadd3c4a2",
+      "Title": "Huckleberry Finn",
+      "Author": "Twain, Mark",
+      "YearWritten": 1865,
+      "Edition": "Penguin",
+      "Price": 5.76
+    },
+    {
+      "Id": "58270241-7899-4f4e-926d-3fe71808de6f",
+      "Title": "Bleak House",
+      "Author": "Dickens, Charles",
+      "YearWritten": 1870,
+      "Edition": "Random House",
+      "Price": 5.75
+    },
+    {
+      "Id": "575dca3d-e066-453a-b1c1-8631d3e28633",
+      "Title": "Tom Sawyer",
+      "Author": "Twain, Mark",
+      "YearWritten": 1862,
+      "Edition": "Random House",
+      "Price": 7.75
+    },
+    {
+      "Id": "b652f76c-9284-4228-8ffa-22ecb688fb6c",
+      "Title": "A Room of One's Own",
+      "Author": "Woolf, Virginia",
+      "YearWritten": 1922,
+      "Edition": "Penguin",
+      "Price": 29.0
+    },
+    {
+      "Id": "610b85e1-e55a-49d8-b685-134d7b66e939",
+      "Title": "Harry Potter",
+      "Author": "Rowling, J.K.",
+      "YearWritten": 2000,
+      "Edition": "Harcourt Brace",
+      "Price": 19.95
+    },
+    {
+      "Id": "79198837-0308-47c5-bf12-6cc118c5b31a",
+      "Title": "One Hundred Years of Solitude",
+      "Author": "Marquez",
+      "YearWritten": 1967,
+      "Edition": "Harper  Perennial",
+      "Price": 14.0
+    },
+    {
+      "Id": "a4c8face-06d1-44aa-a394-cccb4913cd24",
+      "Title": "Hamlet, Prince of Denmark",
+      "Author": "Shakespeare",
+      "YearWritten": 1603,
+      "Edition": "Signet  Classics",
+      "Price": 7.95
+    },
+    {
+      "Id": "beaab44b-6afd-4e51-8c7c-e7dd1e1df834",
+      "Title": "Lord of the Rings",
+      "Author": "Tolkien, J.R.R.",
+      "YearWritten": 1937,
+      "Edition": "Penguin",
+      "Price": 27.45
+    }
+  ]
+}
